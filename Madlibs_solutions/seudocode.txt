@@ -1,0 +1,50 @@
+##############################################
+### PSEUDOCODE FOR P2 - CODE YOUR OWN QUIZ ###
+##############################################
+
+# define text for different levels
+
+
+# define answers for different levels
+
+
+# define how the blanks look like
+
+
+# start game by saying hi and asking the player if they want to play
+
+
+# start game in the selected difficulty
+# take care to account for wrong inputs of the user
+
+
+# display appropriate paragraph
+
+
+# (OPTIONAL: show how many tries left)
+
+# and show what is the next blank
+
+
+# keeps the player here until they get it right
+
+
+# if the answer is correct, breaks from the loop
+# congratulate
+
+# fill the text with the correct word
+
+
+# when all answers are correctly filled,
+# show the full text
+
+# and say a hearty congratulations!
+
+
+# prompt for answer to the first blank
+
+
+# (OPTIONAL: if all tries are used up)
+# (end game with message, and ask if the user wants to try again)
+
+# run the code
